@@ -25,5 +25,5 @@ It will run through your entire collection and remove duplicate files, it'll tak
 
 ```cd /mnt/nas/imagearchive/ && fdupes -r -N -d .```
 
-## Do the sorting, from the imagearcive root
+Do the sorting, still in the imagearcive root
 ```exiftool '-Directory<CreateDate' -d years/%Y/%Y-%m -r incoming/```
