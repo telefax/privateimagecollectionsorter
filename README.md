@@ -21,7 +21,7 @@ years/2013/2013-03/2013-03-24_17h38m48s_631.jpg
 
 
 ## How to sort and remove dupes (recursive/noprompt/delete).
-It will run through your entire collection and remove duplicate files.
+It will run through your entire collection and remove duplicate files, it'll take forever.
 
 ```cd /mnt/nas/imagearchive/ && fdupes -r -N -d .```
 
