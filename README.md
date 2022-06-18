@@ -2,7 +2,7 @@
 Two commands to manage the a digital private photo collection based on Exif dates.
 
 
-I'm running this on a CentOS 8 which has my nas mounted over NFS.
+I'm running this on a CentOS 8 which has my NAS mounted over NFS.
 
 ## Install tools needed
 ```yum install perl-Image-ExifTool.noarch fdupes```
